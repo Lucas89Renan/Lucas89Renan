@@ -15,7 +15,7 @@ Main tools:
   <img height="40" width="40" src=https://github.com/Lucas89Renan/Portf-lio-Bruce/blob/main/linguagens/looker.png>
 </div>
 
-
+<br>
 
 Where can I be found:
 <div>
