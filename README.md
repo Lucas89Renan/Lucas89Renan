@@ -24,6 +24,6 @@ Where can I be found:
   </a>  
 </div>
 
-
+<br><br>
 
 ![Mini-projeto-3](https://github.com/Lucas89Renan/PowerBI/blob/main/Mini-projeto3.png?raw=true)
