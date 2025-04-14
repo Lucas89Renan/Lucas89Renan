@@ -4,8 +4,10 @@
 
 - 🔭 I am in the process of transitioning my career to become a data analyst.
 - 🌱 I am currently improving my skills in Business Intelligence, Power BI and Machine Learning.
+<br>
 
 Main tools:
+<br>
 <div>
   <img height="40" width="40" src=https://github.com/Lucas89Renan/Portf-lio-Bruce/blob/main/linguagens/sql.png>
   <img height="40" width="40" src=https://github.com/Lucas89Renan/Portf-lio-Bruce/blob/main/linguagens/power%20bi.png>
