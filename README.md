@@ -4,8 +4,6 @@
 
 - 🔭 I am in the process of transitioning my career to become a data analyst.
 - 🌱 I am currently improving my skills in Business Intelligence, Power BI and Machine Learning.
--
--
 
 Main tools:
 <div>
