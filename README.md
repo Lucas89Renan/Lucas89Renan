@@ -26,9 +26,11 @@ Where can I be found:
 
 <br><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas89Renan&repo=PowerBI.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas89Renan&repo=PowerBI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas89Renan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Portifolio and main projects
 
 ### Análise de vendas - AdventureWorks
