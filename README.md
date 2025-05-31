@@ -3,7 +3,7 @@
 
 
 - 🔭 I am in the process of transitioning my career to become a data analyst.
-- 🌱 I am currently improving my skills in Business Intelligence, Power BI and Machine Learning.
+- 🌱 I am currently improving my skills in Business Intelligence, Power BI and SQL
 <br>
 
 Main tools:
@@ -25,6 +25,9 @@ Where can I be found:
 </div>
 
 <br><br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucas89Renan&repo=PowerBI.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Portifolio and main projects
 
